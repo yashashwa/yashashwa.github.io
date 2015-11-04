@@ -2,7 +2,7 @@ body{
 	background:#333333 url(images/page-bg.jpg);
 	margin:0px;
 	font: 400 12px/22px 'Open Sans', Verdana, Helvetica, sans-serif;
-	color:#6a6969;
+	color:#E1DFDF;
 }
 h1{font: 400 58px/60px 'Bree Serif', Georgia, serif; color:#6a6969;}
 h2{font: 400 18px/22px 'Bree Serif', Georgia, serif; color:#6a6969;}
@@ -55,24 +55,24 @@ a img{border:0px;}
 #about #top-social{float:right; padding-top:62px;}
 #about #top-social li{float:left; list-style:none; margin-left:10px;}
 #about #top-social .facebook{
-	text-indent:-9999px; 
-	display:block; 
-	width:26px; 
-	height:26px; 
+	text-indent:-9999px;
+	display:block;
+	width:26px;
+	height:26px;
 	background:url(images/sm-facebook-icon.png) no-repeat;
 }
 #about #top-social .twitter{
-	text-indent:-9999px; 
-	display:block; 
-	width:31px; 
-	height:24px; 
+	text-indent:-9999px;
+	display:block;
+	width:31px;
+	height:24px;
 	background:url(images/sm-twitter-icon.png) no-repeat;
 }
 #about #top-social .linkedin{
-	text-indent:-9999px; 
-	display:block; 
-	width:26px; 
-	height:26px; 
+	text-indent:-9999px;
+	display:block;
+	width:26px;
+	height:26px;
 	background:url(images/sm-linkedin-icon.png) no-repeat;
 }
 #about .content{overflow:auto;}
@@ -156,8 +156,8 @@ a img{border:0px;}
 #connect #form input.name{background:#222222 url(images/icon-user.png) no-repeat 10px 8px;}
 #connect #form input.email{background:#222222 url(images/icon-mail.png) no-repeat 10px 9px;}
 #connect #form textarea.message{background:#222222 url(images/icon-message.png) no-repeat 10px 8px;}
-#connect #form input.submit{ 
-	width:75px;   
+#connect #form input.submit{
+	width:75px;
 	height:30px;
 	float:right;
 	padding:0px 0px 5px 0px;
@@ -180,7 +180,7 @@ a img{border:0px;}
 #connect #social-footer #sm-links li a{
 	display:block;
 	text-indent:-9999px;
-	width:26px; 
+	width:26px;
 	height:26px;
 	margin-right:10px;
 }
