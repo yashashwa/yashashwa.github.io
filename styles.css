@@ -203,3 +203,6 @@ a img{border:0px;}
 }
 .top-divider{margin-bottom:40px;}
 .bottom-divider{margin-top:40px;}
+.profile_pic {
+	height: 100%;
+}
